@@ -1,4 +1,4 @@
-<h1> Localizador de Museus </h1>
+<h1> Museum Finder </h1>
 
 <h2> About the project </h2>
 
